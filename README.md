@@ -1,2 +1,4 @@
 # MIT6.006F11-introduction-to-algorithms
 Record the self-study materials and assignments for the MIT6.006(Fall 2011)
+
+Document assignments and code assignments are placed in the [Assignments](https://github.com/rouge3877/MIT6.006F11-introduction-to-algorithms/tree/main/Assignments) folder, course notes provided by MIT are placed in the [LectureNotes](https://github.com/rouge3877/MIT6.006F11-introduction-to-algorithms/tree/main/LectureNotess) folder, and reference answers provided by MIT are placed in the [Solutions](https://github.com/rouge3877/MIT6.006F11-introduction-to-algorithms/tree/main/Solutions) folder.
